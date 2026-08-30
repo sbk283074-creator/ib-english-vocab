@@ -123,5 +123,17 @@
       "didactic",
       "nuanced"
     ]
+  },
+  {
+    "day": 6,
+    "file": "days/day6.html",
+    "title": "Week 1 Review",
+    "date": "Saturday, 29 August 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 1,
+    "category": "WEEK 1 CONSOLIDATION — REVIEW DAY",
+    "newWords": 0,
+    "reviewWords": 60,
+    "words": []
   }
 ]
