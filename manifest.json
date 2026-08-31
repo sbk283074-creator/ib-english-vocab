@@ -147,5 +147,30 @@
     "newWords": 0,
     "reviewWords": 12,
     "words": []
+  },
+  {
+    "day": 8,
+    "file": "days/day8.html",
+    "title": "Phase 2: Descriptive Precision",
+    "date": "Monday, 31 August 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 2,
+    "category": "\"DESCRIBING PLACE\"",
+    "newWords": 12,
+    "reviewWords": 6,
+    "words": [
+      "oppressive",
+      "desolate",
+      "bleak",
+      "forbidding",
+      "stark",
+      "austere",
+      "claustrophobic",
+      "labyrinthine",
+      "sepulchral",
+      "verdant",
+      "bucolic",
+      "tranquil"
+    ]
   }
 ]
