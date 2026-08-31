@@ -135,5 +135,17 @@
     "newWords": 0,
     "reviewWords": 60,
     "words": []
+  },
+  {
+    "day": 7,
+    "file": "days/day7.html",
+    "title": "Weekly Assessment",
+    "date": "Monday, 31 August 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 1,
+    "category": "WEEK 1 ASSESSMENT — PURE APPLICATION",
+    "newWords": 0,
+    "reviewWords": 12,
+    "words": []
   }
 ]
