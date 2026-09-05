@@ -172,5 +172,30 @@
       "bucolic",
       "tranquil"
     ]
+  },
+  {
+    "day": 9,
+    "file": "days/day9.html",
+    "title": "Phase 2: Descriptive Precision",
+    "date": "Saturday, 5 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 2,
+    "category": "\"DESCRIBING PEOPLE\"",
+    "newWords": 12,
+    "reviewWords": 12,
+    "words": [
+      "mercurial",
+      "stoic",
+      "inscrutable",
+      "indomitable",
+      "saturnine",
+      "sanguine",
+      "taciturn",
+      "gregarious",
+      "pugnacious",
+      "circumspect",
+      "capricious",
+      "magnanimous"
+    ]
   }
 ]
