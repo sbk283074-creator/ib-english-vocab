@@ -197,5 +197,104 @@
       "capricious",
       "magnanimous"
     ]
+  },
+  {
+    "day": 10,
+    "file": "days/day10.html",
+    "title": "Phase 2: Descriptive Precision",
+    "date": "Wednesday, 2 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 2,
+    "category": "\"DESCRIBING MOOD\"",
+    "newWords": 12,
+    "reviewWords": 12,
+    "words": [
+      "sombre",
+      "spectral",
+      "haunting",
+      "elegiac",
+      "foreboding",
+      "melancholic",
+      "wistful",
+      "ethereal",
+      "languid",
+      "glacial",
+      "febrile",
+      "visceral"
+    ]
+  },
+  {
+    "day": 11,
+    "file": "days/day11.html",
+    "title": "Phase 2: Descriptive Precision",
+    "date": "Thursday, 3 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 2,
+    "category": "\"DESCRIBING VOICE\"",
+    "newWords": 12,
+    "reviewWords": 12,
+    "words": [
+      "lyrical",
+      "sparse",
+      "laconic",
+      "ornate",
+      "colloquial",
+      "sardonic",
+      "caustic",
+      "euphemistic",
+      "vernacular",
+      "formal",
+      "dispassionate",
+      "strident"
+    ]
+  },
+  {
+    "day": 12,
+    "file": "days/day12.html",
+    "title": "Phase 2: Descriptive Precision",
+    "date": "Friday, 4 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 2,
+    "category": "\"DESCRIBING TEXTURE\"",
+    "newWords": 12,
+    "reviewWords": 12,
+    "words": [
+      "poignant",
+      "evocative",
+      "incongruous",
+      "jarring",
+      "discordant",
+      "luminous",
+      "muted",
+      "scintillating",
+      "suffused",
+      "palpable",
+      "ephemeral",
+      "redolent"
+    ]
+  },
+  {
+    "day": 13,
+    "file": "days/day13.html",
+    "title": "Week 2 Review &amp; Consolidation",
+    "date": "Saturday, 5 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 2,
+    "category": "",
+    "newWords": 0,
+    "reviewWords": 60,
+    "words": []
+  },
+  {
+    "day": 14,
+    "file": "days/day14.html",
+    "title": "Week 2 Assessment",
+    "date": "Sunday, 6 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 2,
+    "category": "",
+    "newWords": 0,
+    "reviewWords": 12,
+    "words": []
   }
 ]
