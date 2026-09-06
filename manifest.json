@@ -296,5 +296,30 @@
     "newWords": 0,
     "reviewWords": 12,
     "words": []
+  },
+  {
+    "day": 15,
+    "file": "days/day15.html",
+    "title": "Technical &amp; Rhetorical Terminology",
+    "date": "Monday, 7 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 3,
+    "category": "\"LITERARY DEVICES &amp; RHETORIC\"",
+    "newWords": 12,
+    "reviewWords": 12,
+    "words": [
+      "metaphor",
+      "simile",
+      "personification",
+      "symbolism",
+      "irony",
+      "motif",
+      "juxtaposition",
+      "hyperbole",
+      "allusion",
+      "metonymy",
+      "oxymoron",
+      "anaphora"
+    ]
   }
 ]
