@@ -321,5 +321,30 @@
       "oxymoron",
       "anaphora"
     ]
+  },
+  {
+    "day": 16,
+    "file": "days/day16.html",
+    "title": "More Technical &amp; Rhetorical Terminology",
+    "date": "Tuesday, 8 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 3,
+    "category": "CONTINUING — \"LITERARY DEVICES &amp; RHETORIC (SET 2)\"",
+    "newWords": 12,
+    "reviewWords": 12,
+    "words": [
+      "paradox",
+      "synecdoche",
+      "imagery",
+      "allegory",
+      "antithesis",
+      "epistrophe",
+      "apostrophe",
+      "alliteration",
+      "euphemism",
+      "pun",
+      "satire",
+      "tricolon"
+    ]
   }
 ]
