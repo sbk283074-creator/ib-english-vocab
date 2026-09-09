@@ -346,5 +346,55 @@
       "satire",
       "tricolon"
     ]
+  },
+  {
+    "day": 17,
+    "file": "days/day17.html",
+    "title": "Structural &amp; Narrative Terms",
+    "date": "Wednesday, 9 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 3,
+    "category": "CONTINUING — \"STRUCTURAL &amp; NARRATIVE TERMS\"",
+    "newWords": 12,
+    "reviewWords": 12,
+    "words": [
+      "foreshadowing",
+      "flashback",
+      "flash-forward",
+      "frame narrative",
+      "unreliable narrator",
+      "stream of consciousness",
+      "interior monologue",
+      "epiphany",
+      "denouement",
+      "non-linear narrative",
+      "retrospective narration",
+      "cyclic structure"
+    ]
+  },
+  {
+    "day": 18,
+    "file": "days/day18.html",
+    "title": "Tone &amp; Attitude Terms",
+    "date": "Thursday, 10 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 3,
+    "category": "CONTINUING — \"TONE &amp; ATTITUDE TERMS\"",
+    "newWords": 12,
+    "reviewWords": 12,
+    "words": [
+      "connotation",
+      "denotation",
+      "register",
+      "subtext",
+      "inference",
+      "modality",
+      "equivocation",
+      "hedge",
+      "stance",
+      "sarcasm",
+      "innuendo",
+      "understatement"
+    ]
   }
 ]
