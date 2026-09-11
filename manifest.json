@@ -396,5 +396,30 @@
       "innuendo",
       "understatement"
     ]
+  },
+  {
+    "day": 19,
+    "file": "days/day19.html",
+    "title": "Rhetorical Schemes",
+    "date": "Friday, 11 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 3,
+    "category": "CONTINUING — \"RHETORICAL SCHEMES (FIGURES OF ARRANGEMENT)\"",
+    "newWords": 12,
+    "reviewWords": 12,
+    "words": [
+      "chiasmus",
+      "zeugma",
+      "asyndeton",
+      "polysyndeton",
+      "litotes",
+      "antimetabole",
+      "isocolon",
+      "anadiplosis",
+      "anastrophe",
+      "climax",
+      "parataxis",
+      "hypotaxis"
+    ]
   }
 ]
