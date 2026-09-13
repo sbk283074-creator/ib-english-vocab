@@ -421,5 +421,17 @@
       "parataxis",
       "hypotaxis"
     ]
+  },
+  {
+    "day": 20,
+    "file": "days/day20.html",
+    "title": "Week 3 Mixed Consolidation",
+    "date": "Saturday, 12 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 3,
+    "category": "",
+    "newWords": 0,
+    "reviewWords": 60,
+    "words": []
   }
 ]
