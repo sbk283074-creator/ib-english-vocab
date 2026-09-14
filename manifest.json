@@ -445,5 +445,30 @@
     "newWords": 0,
     "reviewWords": 60,
     "words": []
+  },
+  {
+    "day": 22,
+    "file": "days/day22.html",
+    "title": "Stylistic &amp; Linguistic Analysis",
+    "date": "Monday, 14 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 4,
+    "category": "\"STYLISTIC &amp; LINGUISTIC ANALYSIS\"",
+    "newWords": 12,
+    "reviewWords": 12,
+    "words": [
+      "cohesion",
+      "coherence",
+      "deixis",
+      "lexical field",
+      "foregrounding",
+      "intonation",
+      "thesis",
+      "contention",
+      "premise",
+      "qualify",
+      "concede",
+      "rebut"
+    ]
   }
 ]
