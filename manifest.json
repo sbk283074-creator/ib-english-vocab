@@ -470,5 +470,30 @@
       "concede",
       "rebut"
     ]
+  },
+  {
+    "day": 23,
+    "file": "days/day23.html",
+    "title": "Syntax &amp; Discourse Analysis",
+    "date": "Tuesday, 15 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 4,
+    "category": "\"SYNTAX &amp; DISCOURSE ANALYSIS\"",
+    "newWords": 12,
+    "reviewWords": 12,
+    "words": [
+      "declarative",
+      "interrogative",
+      "imperative",
+      "exclamative",
+      "coordination",
+      "subordination",
+      "discourse marker",
+      "illocutionary act",
+      "nominalisation",
+      "passive",
+      "ellipsis",
+      "fronting"
+    ]
   }
 ]
