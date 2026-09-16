@@ -495,5 +495,30 @@
       "ellipsis",
       "fronting"
     ]
+  },
+  {
+    "day": 24,
+    "file": "days/day24.html",
+    "title": "Critical Theory Vocabulary",
+    "date": "Wednesday, 16 September 2026",
+    "phase": "Phase 1 · Analytical Verbs",
+    "week": 4,
+    "category": "\"CRITICAL THEORY VOCABULARY\"",
+    "newWords": 12,
+    "reviewWords": 12,
+    "words": [
+      "patriarchy",
+      "intersectionality",
+      "the male gaze",
+      "ideology",
+      "hegemony",
+      "alienation",
+      "othering",
+      "the subaltern",
+      "hybridity",
+      "the unconscious",
+      "repression",
+      "the uncanny"
+    ]
   }
 ]
